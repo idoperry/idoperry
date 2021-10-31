@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idoperry
 - 👀 I’m interested in Python, CFD,FEA and Final Ballistic
-- 🌱 I’m currently learning Pyhton and LSDyna.
+- 🌱 I’m currently learning Java and LSDyna.
 - 💞️ I’m looking to collaborate on Games Creation 
 - 📫 How to reach me: Github Only
 
